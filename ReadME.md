@@ -1,6 +1,6 @@
 # World Happiness Visualization Project
 
-![World Happiness Map](happiness_map.png)  
+![World Happiness Map](https://github.com/itsmearafik/happiness_index_visualization/blob/main/happiness_visualization.png)  
 *Interactive visualization of global happiness scores (2015-2019)*
 
 ## 📌 Overview
